@@ -1,0 +1,26 @@
+{
+  "name": "expresspg",
+  "version": "1.0.0",
+  "description": "Test Task for test knowing of Express and PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehimer/ExpressPg.git"
+  },
+  "keywords": [
+    "express",
+    "postgresql",
+    "nodejs",
+    "sample",
+    "example"
+  ],
+  "author": "Denis Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dehimer/ExpressPg/issues"
+  },
+  "homepage": "https://github.com/dehimer/ExpressPg#readme"
+}
